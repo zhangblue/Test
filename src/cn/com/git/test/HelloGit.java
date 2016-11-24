@@ -11,6 +11,7 @@ public class HelloGit
 		System.out.println("第五次提交");
 		System.out.println("第五次提交");
 		System.out.println("最后一次提交");
+		String st = "1111";
 		
 	}
 }
