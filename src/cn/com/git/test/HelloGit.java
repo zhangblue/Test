@@ -10,6 +10,7 @@ public class HelloGit
 		System.out.println("第四次提交");
 		System.out.println("第五次提交");
 		System.out.println("第五次提交");
+		System.out.println("最后一次提交");
 		
 	}
 }
